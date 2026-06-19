@@ -1,6 +1,6 @@
 # API REST — Autenticação e Gestão de Usuários
 
-API REST completa de autenticação JWT e gerenciamento de usuários, construída com **NestJS**, **Prisma ORM** e **SQL Server**. Projetada para consumo por clientes humanos e agentes de IA (Cursor, Claude Code, etc.), com contratos REST previsíveis, documentação OpenAPI e respostas padronizadas.
+API REST completa de autenticação JWT e gerenciamento de usuários, construída com **NestJS**, **Prisma ORM** e **SQL Server**. Projetada para consumo com contratos REST previsíveis, documentação OpenAPI e respostas padronizadas.
 
 ## Stack
 
